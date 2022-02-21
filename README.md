@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It is a simple Github Search app developed with React. Used github api and axios.
 
+## Environment Variables
+
+REACT_APP_GITHUB_URL="https://api.github.com"
+REACT_APP_GITHUB_TOKEN="YOUR_API_KEY_HERE"
+
 ## Available Scripts
 
 In the project directory, you can run:
