@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It is a simple Github Search app developed React. It is developed using github api and axios.
+It is a simple Github Search app developed with React. Used github api and axios.
 
 ## Available Scripts
 
